@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   decoration: BoxDecoration(
                     shape: BoxShape.circle, //  circle on ui.
                     border: Border.all(
-                      color: const Color(0xff0395eb),
+                      color: Color.fromARGB(160, 3, 235, 119),
                       width: 4,
                     ),
                   ),
